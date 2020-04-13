@@ -1,1 +1,2 @@
 Hello 2.txt
+Some chaNGES IN 2.TXT
